@@ -1,2 +1,4 @@
 This is my UserService  Class.!!
 Let Process it..
+
+create an avtar for user.
